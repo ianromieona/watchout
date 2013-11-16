@@ -4,6 +4,7 @@
 /protected/config/main_production.php
 /protected/config/console_dev.php
 /protected/config/console_production.php
+/index.php
 # Can ignore specific files
 Thumbs.db
 nbproject
